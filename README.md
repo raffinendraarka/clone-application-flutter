@@ -10,15 +10,13 @@ Project ini dibuat untuk tujuan pembelajaran dan demonstrasi pengembangan antarm
 
 ## Preview
 
-<!-- Tambahkan screenshot aplikasi di bagian ini -->
-
 | Login Page | Register Page |
 |:---:|:---:|
-| Screenshot Login | Screenshot Register |
+| ![Login Page](screenshots/login.png) | ![Register Page](screenshots/register.png) |
 
 | Dashboard |
 |:---:|
-| Screenshot Dashboard |
+| ![Dashboard](screenshots/dashboard.png) |
 
 ---
 
